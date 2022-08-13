@@ -37,6 +37,11 @@ Implemented address screening
 https://github.com/aave/interface/pull/1017
 https://twitter.com/sassal0x/status/1558326040920936448
 
+UPDATE 08-13-2022:
+Looks like it doesn't block sanctioned addresses?
+
+https://twitter.com/0xdef1/status/1558435266817318913
+
 ### Flashbots 
 Has OFAC blacklist
 
