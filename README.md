@@ -35,6 +35,7 @@ https://www.blog.pokt.network/update-on-tornado-cash/
 Implemented address screening
 
 https://github.com/aave/interface/pull/1017
+https://twitter.com/sassal0x/status/1558326040920936448
 
 ### Flashbots 
 Has OFAC blacklist
