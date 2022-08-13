@@ -1,6 +1,6 @@
 # sus-projects
 
-## List of projects that implements address checking, TRM, or snitches on u ig 
+## List of projects that implements address checking, TRM, etc.
 pls help me compile dis list i am just a dum llama
 
 ### Ren 
@@ -37,3 +37,16 @@ https://github.com/aave/interface/pull/1017
 Has OFAC blacklist
 
 https://github.com/flashbots/rpc-endpoint/pull/90/
+
+### Uniswap
+Collects data on addresses/hashes
+Has OFAC blacklist
+
+https://github.com/Uniswap/interface/pull/2623
+
+https://twitter.com/0xzuberg/status/1558278137620103168
+
+### dYdX
+Blocking people from using the protocol
+
+https://twitter.com/exegor/status/1557453734522884097
