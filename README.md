@@ -21,6 +21,11 @@ Implements TRM
 
 https://github.com/OasisDEX/oasis-borrow/blob/ef5b3e151a004481641e262a4351021d0dd2f5b9/handlers/risk/get.ts
 
+UPDATE 08-13-2022
+Removed Check?
+
+https://twitter.com/_apedev/status/1558429699931619329
+
 ### Balancer
 Implements TRM
 
@@ -49,11 +54,14 @@ https://github.com/flashbots/rpc-endpoint/pull/90/
 
 ### Uniswap
 Collects data on addresses/hashes
+
 Has OFAC blacklist
 
 https://github.com/Uniswap/interface/pull/2623
 
 https://twitter.com/0xzuberg/status/1558278137620103168
+
+
 
 ### dYdX
 Blocking people from using the protocol
