@@ -1,6 +1,11 @@
-# sus
+# Circumventing these blocks
+### Adblock filter that prevents the frontend from blocking you
+https://github.com/ape-dev-cs/unblock-dapps
 
-## List of projects that implements address checking, TRM, etc.
+### Self Hosting your frontend
+Since most projects are open source, you can simply download the frontend and run it locally on your own device
+
+# List of projects that implements address checking, TRM, etc.
 pls help me compile dis list i am just a dum llama
 
 ### Tornado Cash
@@ -61,7 +66,7 @@ https://github.com/Uniswap/interface/pull/2623
 
 https://twitter.com/0xzuberg/status/1558278137620103168
 
-
+https://twitter.com/bantg/status/1558456226245132294
 
 ### dYdX
 Blocking people from using the protocol
