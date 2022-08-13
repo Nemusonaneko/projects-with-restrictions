@@ -44,13 +44,17 @@ https://www.blog.pokt.network/update-on-tornado-cash/
 ### Aave
 Implemented address screening
 
+Implemented TRM into IPFS
+
 https://github.com/aave/interface/pull/1017
+
 https://twitter.com/sassal0x/status/1558326040920936448
 
 UPDATE 08-13-2022:
-Looks like it doesn't block sanctioned addresses?
 
-https://twitter.com/0xdef1/status/1558435266817318913
+Implemented TRM into IPFS
+
+https://twitter.com/AaveAave/status/1558537736956542978
 
 ### Flashbots 
 Has OFAC blacklist
