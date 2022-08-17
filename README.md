@@ -18,6 +18,10 @@ You probably have to remove the TRM part of the frontend, I will fork these repo
 
 AAVE: <https://github.com/Nemusonaneko/aave-interface>
 
+For Oasis, you can just clone their repo and change USE_TRM_API to 0 in .env:
+
+<https://github.com/OasisDEX/oasis-borrow>
+
 Article by Marco Worms on self-hosting frontends
 
 <https://medium.com/iearn/self-hosting-web3-services-299306b706ee>
