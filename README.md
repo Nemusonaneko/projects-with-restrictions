@@ -6,11 +6,17 @@
 
 <https://github.com/ape-dev-cs/unblock-dapps>
 
+### Add URLS to browser filters to block checking
+
+<https://twitter.com/dmihal/status/1559899152770891776>
+
 ### Self Hosting your frontend
 
 Since most projects are open source, you can simply download the frontend and run it locally on your own device
 
 You probably have to remove the TRM part of the frontend, will fork these repos and remove it myself ig.
+
+AAVE: <https://github.com/Nemusonaneko/aave-interface>
 
 Article by Marco Worms on self-hosting frontends
 
