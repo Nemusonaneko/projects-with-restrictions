@@ -14,7 +14,7 @@
 
 Since most projects are open source, you can simply download the frontend and run it locally on your own device
 
-You probably have to remove the TRM part of the frontend, will fork these repos and remove it myself ig.
+You probably have to remove the TRM part of the frontend, I will fork these repos and remove it myself ig.
 
 AAVE: <https://github.com/Nemusonaneko/aave-interface>
 
@@ -87,6 +87,10 @@ Has OFAC blacklist
 
 <https://github.com/flashbots/rpc-endpoint/pull/90/>
 
+Relay and Builder are OFAC compliant and will be in the future
+
+<https://twitter.com/bantg/status/1559948198508118016>
+
 ### Uniswap
 
 Collects data on addresses/hashes
@@ -104,9 +108,3 @@ Has OFAC blacklist
 Blocking people from using the protocol
 
 <https://twitter.com/exegor/status/1557453734522884097>
-
-### Flashbots
-
-Relay and Builder are OFAC compliant
-
-<https://twitter.com/bantg/status/1559948198508118016>
