@@ -10,6 +10,10 @@
 
 <https://twitter.com/dmihal/status/1559899152770891776>
 
+### Extension that intercepts and mock requests made by dApps to check if you are sanctioned or not
+
+<https://twitter.com/qdqd___/status/1560261523347734528>
+
 ### Self Hosting your frontend
 
 Since most projects are open source, you can simply download the frontend and run it locally on your own device
