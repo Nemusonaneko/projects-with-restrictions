@@ -83,3 +83,8 @@ Some whitehat hackers have experienced wrongful blocks on Uniswap, according to 
 ### dYdX
 
 dYdX has blocked people with open positions from continuing to use the protocol, according to [this tweet](https://twitter.com/exegor/status/1557453734522884097).
+
+### Circle
+
+Blacklisted USDC from addresses related to Tornado Cash right after the OFAC sanction announcement.
+
